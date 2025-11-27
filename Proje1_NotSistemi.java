@@ -1,3 +1,6 @@
+//Adi SoyAdi : Ayham Nawaf Hammoud//
+//OgrenciNo: 240541613 //
+
 public class OgrenciNotSistemi {
 
     // 1) Ortalama hesaplama
@@ -61,3 +64,4 @@ public class OgrenciNotSistemi {
         generateReport(70, 82, 86);
     }
 }
+
