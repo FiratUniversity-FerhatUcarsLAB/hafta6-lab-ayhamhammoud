@@ -1,3 +1,8 @@
+//Adi SoyAdi : Ayham Nawaf Hammoud//
+//OgrenciNo: 240541613 //
+
+
+
 public class SinemaBilet {
 
     // 1. Hafta sonu kontrolü
@@ -110,3 +115,4 @@ public class SinemaBilet {
         System.out.println(ticket);
     }
 }
+
